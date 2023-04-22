@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CKS-0
-- 👀 I’m interested in learning to code and blockchain
-- 🌱 I’m currently learning html,css and java
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning html,css and javaScript
 - 💞️ I’m looking to collaborate on projects of interest
 - 📫 How to reach me chandu.sharma6@gmail.com
 
