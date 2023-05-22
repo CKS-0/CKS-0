@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CKS-0
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning html,css and javaScript
+- 🌱 I’m a self-taught MERN developer. I focus mostly on the frontend.
 - 💞️ I’m looking to collaborate on projects of interest
-- 📫 How to reach me chandu.sharma6@gmail.com
+- 📫 Reach me at chandu.sharma6@gmail.com
 
 <!---
 CKS-0/CKS-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
